@@ -1,0 +1,5 @@
+{
+  "name": "Lucy AI Assistant",
+  "description": "A sophisticated neural AI voice assistant named Lucy with persistent memory and advanced reasoning capabilities.",
+  "requestFramePermissions": ["microphone"]
+}
